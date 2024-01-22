@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanm37&label=Profile%20views&color=0e75b6&style=flat" alt="jordanm37" /> </p> -->
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **Langchain**, **LlamaIndex** and **DSPy**
 
 - 👯 I’m looking to collaborate on **Algorithmic Trading or AI projects**
 
