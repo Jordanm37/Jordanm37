@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Langchain**, **LlamaIndex** and **DSPy**
 
-- 👯 I’m looking to collaborate on **Algorithmic Trading or AI projects**
+- 👯 I’m looking to collaborate on **Computational Physics or LLM projects**
 
 - 📫 How to reach me **jordan.moshcovitis@gmail.com**
 
